@@ -44,6 +44,7 @@
 
   <script src="<?php echo base_url(); ?>public/app.js" type="text/javascript"></script>
 
+  <link rel="icon" type="image/x-icon" href="<?php echo base_url(); ?>public/images/logo-pondok-idris.png">
 </head>
 <!-- ADD THE CLASS layout-top-nav TO REMOVE THE SIDEBAR. -->
 
