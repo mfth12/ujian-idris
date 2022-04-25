@@ -3,7 +3,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 $config['upload_path'] = 'uploads';
 $config['site_name'] = 'Idris Computer Based-Test';
-$config['site_version'] = '2022.4.1';
+$config['site_version'] = '2.1 beta';
 
 /*
 |--------------------------------------------------------------------------
